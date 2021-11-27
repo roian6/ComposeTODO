@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="appbar_title">찬효의 투두리스트</string>
+    <string name="delete_dialog_title">삭제하기</string>
+    <string name="delete_dialog_text">선택한 항목을 삭제할까요?</string>
+    <string name="dialog_confirm">확인</string>
+    <string name="dialog_cancel">취소</string>
+    <string name="add_todo">Add Todo</string>
+    <string name="todo_done">Todo done</string>
+</resources>
